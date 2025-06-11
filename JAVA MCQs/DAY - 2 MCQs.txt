@@ -1,0 +1,142 @@
+DAY - 2
+
+1. Which method is the entry point for any Java program?
+A. start()
+B. main()
+C. run()
+D. init()
+Answer: B. main()
+
+2. Which keyword is used to inherit a class in Java?
+A. implements
+B. extends
+C. inherits
+D. override
+Answer: B. extends
+
+3. What is the default value of a local variable in Java?
+A. 0
+B. null
+C. Depends on data type
+D. No default value
+Answer: D. No default value
+
+4. What is the size of an int variable in Java?
+A. 8 bits
+B. 16 bits
+C. 32 bits
+D. 64 bits
+Answer: C. 32 bits
+
+5. Which of the following is not an access modifier in Java?
+A. private
+B. protected
+C. void
+D. public
+Answer: C. void
+
+6. What is the purpose of the final keyword in Java?
+A. To declare a constant
+B. To prevent method overriding
+C. To prevent inheritance
+D. All of the above
+Answer: D. All of the above
+
+7. Which of the following is a valid variable declaration in Java?
+A. int 1value;
+B. float rate = 3.14;
+C. double price = "100";
+D. char c = "c";
+Answer: B. float rate = 3.14;
+
+8.  Which of these is not a valid data type in Java?
+A. byte
+B. int
+C. real
+D. char
+Answer: C. real
+
+9. Which loop will execute at least once, even if the condition is false?
+A. for
+B. while
+C. do-while
+D. All
+Answer: C. do-while
+
+10. Which keyword is used to skip the current loop iteration?
+A. break
+B. continue
+C. skip
+D. exit
+Answer: B. continue
+
+11. Which keyword is used to call a method within the same class?
+A. class
+B. call
+C. this
+D. new
+Answer: C. this
+
+12. Which is a valid method call for int add(int a, int b)?
+A. add();
+B. add(5);
+C. add(5, 10);
+D. add(int, int);
+Answer: C. add(5, 10);
+
+
+13. Which method header is valid in Java?
+A. int sum(int a, b)
+B. void start()
+C. public method(int a)
+D. return int sum()
+Answer: B. void start()
+
+14. What does JDK include?
+A. JVM + JRE
+B. Only JVM
+C. Only JRE
+D. IDE
+Answer: A. JVM + JRE
+
+15. What is the index of the first element in an array?
+A. 0
+B. 1
+C. -1
+D. Undefined
+Answer: A. 0
+
+16. What is the correct declaration of a 2D array?
+A. int arr[][] = new int[3][3];
+B. int arr()() = new int[3][3];
+C. int[3][3] arr;
+D. new int[3][3] arr;
+Answer: A. int arr[][] = new int[3][3];
+
+17. What does the method length() return?
+A. Number of words
+B. Number of characters
+C. Size in bytes
+D. None
+Answer: B. Number of characters
+
+18. What is the output of "hello".charAt(1)?
+A. h
+B. e
+C. l
+D. o
+Answer: B. e
+
+19. Which method compares two strings for equality (case-sensitive)?
+A. ==
+B. compare()
+C. equals()
+D. match()
+Answer: C. equals() 	
+
+20. Which of the following is mutable?
+A. String
+B. StringBuilder
+C. final String
+D. charAt
+Answer: B. StringBuilder

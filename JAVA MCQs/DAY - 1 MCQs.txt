@@ -1,0 +1,114 @@
+DAY - 1 
+
+1. Which of the following is a correct way to declare and initialize a float variable in Java?
+A) float num = 7.5;
+B) float num = "7.5f";
+C) float num = 7.5f;
+D) float num := 7.5f;
+
+✅ Answer: C
+
+
+2. What will the following if block execute?
+
+int x = 10;
+if (x == 10)
+    if (x > 5)
+        System.out.println("A");
+    else
+        System.out.println("B");
+A) A
+B) B
+C) No output
+D) Compilation Error
+
+✅ Answer: A
+(The inner if executes, as x > 5 is true.)
+
+
+
+3. How many times will the following loop run?
+
+int i = 1;
+while (i < 5) {
+    i++;
+}
+A) 3
+B) 4
+C) 5
+D) Infinite loop
+
+✅ Answer: B
+
+
+4. What will be the output of this do-while loop?
+
+int i = 10;
+do {
+    System.out.print(i + " ");
+    i--;
+} while (i > 7);
+A) 10 9 8
+B) 10 9 8 7
+C) 10 9 8 7 6
+D) 10 9 8
+
+✅ Answer: B
+
+5. What is the output of this method call?
+
+int result = sum(2, 3);
+System.out.println(result);
+
+public static int sum(int a, int b) {
+    return a + b;
+}
+A) 5
+B) Compile-time error
+C) 23
+D) Runtime error
+
+✅ Answer: B
+
+6. Which of the following statements about methods is false?
+A) A method can return only one value.
+B) Method parameters must have a declared type.
+C) Method overloading means redefining the same method in a subclass.
+D) A method can call another method from the same class.
+
+✅ Answer: C
+
+7. What is the correct data type to store a single character?
+A) String
+B) char
+C) text
+D) character
+
+✅ Answer: B
+
+8.  What will the following code print?
+
+int x = 10;
+System.out.println(x > 5);
+A) true
+B) false
+C) 10
+D) 5
+
+✅ Answer: A
+
+9. Which of the following is used for a decision-making structure?
+A) for
+B) while
+C) if
+D) int
+
+✅ Answer: C
+
+10. What does the return keyword do in a method?
+A) Stops the program
+B) Skips to next line
+C) Sends a value back to the caller
+D) Calls another method
+
+✅ Answer: C

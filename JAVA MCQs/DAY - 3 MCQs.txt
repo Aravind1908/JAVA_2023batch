@@ -1,0 +1,158 @@
+DAY - 3
+
+1. Which of the following is a correct syntax to create an object in Java?
+a) Class obj = new Class();
+b) new Class obj = Class();
+c) Class obj = Class();
+d) obj = new Class();
+✅ Answer: a
+
+2. What is the default value of an object reference in Java?
+a) 0
+b) null
+c) undefined
+d) ""
+✅ Answer: b
+
+3. Which of the following statements is true about a class?
+a) Class is a type of variable
+b) Class is a blueprint for objects
+c) Class is an interface
+d) Class is used to allocate memory
+✅ Answer: b
+
+4. Which keyword is used to define a class in Java?
+a) struct
+b) class
+c) define
+d) type
+✅ Answer: b
+
+5. What will happen if you do not initialize an object in Java?
+a) It gives a compilation error
+b) The object gets a default value
+c) Runtime error (NullPointerException) if used
+d) It works fine
+✅ Answer: c
+
+6. Which of the following is not a type of constructor in Java?
+a) Default constructor
+b) Parameterized constructor
+c) Copy constructor
+d) Static constructor
+✅ Answer: d
+
+7. What is true about constructors?
+a) They must have a return type
+b) They must be static
+c) They have the same name as the class
+d) They can be abstract
+✅ Answer: c   
+
+
+8. What is the purpose of a constructor?
+a) Destroy object
+b) Allocate memory
+c) Initialize object
+d) Create method
+✅ Answer: c
+
+9. What does this keyword refer to?
+a) Parent class
+b) Current class object
+c) Static method
+d) None of the above
+✅ Answer: b
+
+10. Which keyword is used to call a parent class constructor?
+a) this()
+b) base()
+c) super()
+d) parent()
+✅ Answer: c
+
+11. Which statement is true about super keyword?
+a) Can be used to call child class method
+b) Refers to the current object
+c) Used to access parent class methods/constructors
+d) Used for abstraction
+✅ Answer: c
+
+12. Which class is the superclass of all classes in Java?
+a) Main
+b) Object
+c) System
+d) Super
+✅ Answer: b
+
+13. Which keyword is used to inherit a class in Java?
+a) this
+b) inherits
+c) extends
+d) implements
+✅ Answer: c
+
+14. What type of inheritance does Java not support directly?
+a) Single
+b) Multilevel
+c) Hierarchical
+d) Multiple (via class)
+✅ Answer: d
+
+15. Which concept allows multiple methods with the same name but different parameters?
+a) Inheritance
+b) Method overriding
+c) Method overloading
+d) Abstraction
+✅ Answer: c
+
+16. Which annotation is used for method overriding?
+a) @Override
+b) @Overload
+c) @Extend
+d) @This
+✅ Answer: a
+
+17. Which one is true about method overriding?
+a) Occurs within the same class
+b) Increases security
+c) Child class redefines parent class method
+d) Increases execution speed
+✅ Answer: c
+
+18. Which keyword is used to achieve encapsulation?
+a) private
+b) public
+c) abstract
+d) static
+✅ Answer: a
+
+19. Encapsulation is also known as:
+a) Inheritance
+b) Information hiding
+c) Method overloading
+d) Code expansion
+✅ Answer: b
+
+20. Which keyword is used to define abstract methods?
+a) abstract
+b) void
+c) final
+d) private
+✅ Answer: a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

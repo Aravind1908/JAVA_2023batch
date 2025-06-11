@@ -1,0 +1,125 @@
+Day - 4 
+
+1. Which of the following creates a 1D array of integers in Java?
+A) int arr[] = new int();
+B) int arr[] = new int[5]; ✅
+C) int arr[5] = new int[];
+D) int arr = new int[5];
+
+2. How do you find the length of a 1D array arr in Java?
+A) arr.length()
+B) length(arr)
+C) arr.size()
+D) arr.length ✅
+
+3. What does charAt(2) return for string "Hello"?
+A) 'H'
+B) 'e'
+C) 'l' ✅
+D) 'o'
+
+4.  What is the output of: "Java".equals("java")?
+A) true
+B) false ✅
+C) null
+D) error
+
+5. Which method splits a string by spaces?
+A) split(" ") ✅
+B) divide(" ")
+C) tokenize(" ")
+D) break(" ")
+
+6. Which is used for mutable strings?
+A) String
+B) StringBuffer ✅
+C) StringBuilder
+D) CharArray
+
+7. Which of the following initializes a 2D array?
+A) int arr[][] = new int[3][];
+B) int arr[][] = new int[3][4]; ✅
+C) int[][] arr = new int[];
+D) int[][] arr = {1,2,3};
+
+8. What is the default value of a String array element?
+A) ""
+B) null ✅
+C) undefined
+D) "null"
+
+9. Which keyword is used to create an object in Java?
+A) class
+B) object
+C) new ✅
+D) alloc
+
+10. What is a constructor?
+A) A special method that destroys an object
+B) A special variable
+C) A method to initialize objects ✅
+D) A static method
+
+11. Which keyword refers to the current object?
+A) self
+B) super
+C) current
+D) this ✅
+
+12. Which keyword refers to the parent class constructor?
+A) super ✅
+B) this
+C) parent
+D) base
+
+13. What is inheritance?
+A) Defining many methods with same name
+B) Creating new class from existing ✅
+C) Defining class inside class
+D) All of the above
+
+14. What is method overloading?
+A) Same method name with different return type
+B) Same method name but different parameters ✅
+C) Overriding superclass method
+D) Static method overriding
+
+15. What is runtime polymorphism?
+A) Method overloading
+B) Method overriding ✅
+C) Static binding
+D) Constructor chaining
+
+16. Which of the following is not a pillar of OOP?
+A) Inheritance
+B) Abstraction
+C) Compilation ✅
+D) Polymorphism
+
+17. Which of the following is a checked exception?
+A) NullPointerException
+B) ArrayIndexOutOfBoundsException
+C) IOException ✅
+D) ArithmeticException
+
+18. Which block executes no matter what, even if an exception occurs or not?
+A) catch
+B) finally ✅
+C) throw
+D) throws
+
+19. What class is used to write text to a file?
+A) File
+B) FileWriter ✅
+C) FileReader
+D) Scanner
+
+20.  Which class is used to read characters from a file?
+A) FileOutputStream
+B) BufferedWriter
+C) FileReader ✅
+D) PrintWriter
+
+
+
+
