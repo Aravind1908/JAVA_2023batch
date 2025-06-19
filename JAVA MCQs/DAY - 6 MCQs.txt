@@ -1,0 +1,71 @@
+Test - 6 
+
+1. What is multithreading in Java?
+A) Running multiple applications simultaneously
+B) Running multiple classes simultaneously
+C) Executing multiple threads concurrently
+D) Using multiple CPUs in Java
+Answer: C
+
+2. Which interface must be implemented to create a thread by implementing it?
+A) Runnable
+B) Thread
+C) Executor
+D) Callable
+Answer: A
+
+3. What is the correct method to start a thread in Java?
+A) run()
+B) begin()
+C) start()
+D) execute()
+Answer: C
+
+4. Which method contains the code to be executed by a thread?
+A) main()
+B) run()
+C) execute()
+D) start()
+Answer: B
+
+5. What happens when the start() method is called on a thread?
+A) Thread stops execution
+B) Thread begins execution from the run() method
+C) Thread is destroyed
+D) Compiler error
+Answer: B
+
+6. Which method causes the current thread to temporarily pause and allow other threads to execute?
+A) wait()
+B) yield()
+C) sleep()
+D) notify()
+Answer: B
+
+7. Which method is used to block a thread for a specific time?
+A) yield()
+B) join()
+C) sleep(milliseconds)
+D) stop()
+Answer: C
+
+8. Which keyword is used for synchronization in Java?
+A) sync
+B) synchronize
+C) synchronized
+D) mutex
+Answer: C
+
+9. Which exception is thrown when sleep() is interrupted?
+A) SleepException
+B) InterruptedException
+C) ThreadException
+D) RuntimeException
+Answer: B
+
+10. Which of the following is true about thread priority?
+A) Higher priority threads always execute first
+B) Priorities guarantee the order of execution
+C) Thread priorities range from 0 to 10
+D) Thread priorities influence thread scheduling
+Answer: D

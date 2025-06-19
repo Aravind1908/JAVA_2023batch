@@ -1,0 +1,71 @@
+Test  - 5 
+
+1. Which of the following classes implements the List interface?
+a) HashMap
+b) TreeSet
+c) ArrayList
+d) HashSet
+Answer: c) ArrayList
+
+2. Which Java Collection class maintains insertion order and does not allow duplicates?
+a) HashSet
+b) TreeSet
+c) LinkedHashSet
+d) ArrayList
+Answer: c) LinkedHashSet
+
+3. Which interface allows key-value pair storage in Java Collections?
+a) List
+b) Set
+c) Map
+d) Queue
+Answer: c) Map
+
+4. Which method is used to remove an element from a HashSet?
+a) delete()
+b) remove()
+c) erase()
+d) eliminate()
+Answer: b) remove()
+
+5. What happens if you insert a duplicate key in a HashMap?
+a) It throws an exception
+b) It adds a new entry
+c) The old value is replaced
+d) It ignores the new key
+Answer: c) The old value is replaced
+
+6. Which class in the Java Collections Framework sorts elements by natural order by default?
+a) HashMap
+b) LinkedHashMap
+c) TreeMap
+d) HashSet
+Answer: c) TreeMap
+
+7. Which of the following is not true about Set interface?
+a) It allows duplicate elements
+b) It does not maintain insertion order
+c) It is implemented by HashSet and LinkedHashSet
+d) It allows null values
+Answer: a) It allows duplicate elements
+
+8. To iterate a collection using an Iterator, which method is NOT required?
+a) next()
+b) hasNext()
+c) remove()
+d) get()
+Answer: d) get()
+
+9. Which method is used to remove all elements from a collection?
+a) deleteAll()
+b) clear()
+c) removeAll()
+d) eraseAll()
+Answer: b) clear()
+
+10. Which of these collections is best for storing unique items in sorted order?
+a) HashSet
+b) ArrayList
+c) TreeSet
+d) HashMap
+Answer: c) TreeSet

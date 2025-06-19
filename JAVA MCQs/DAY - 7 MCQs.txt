@@ -1,0 +1,107 @@
+Test - 7
+
+1. What does JDBC stand for?
+A) Java Database Connectivity
+B) Java Data Communication
+C) Java Data Binding Connector
+D) Java Binary Connector
+Answer: A
+
+2. Which package contains the JDBC classes?
+A) java.sql
+B) javax.sql
+C) java.db
+D) java.jdbc
+Answer: A
+
+3. Which of the following is not a type of JDBC driver?
+A) JDBC-ODBC bridge driver
+B) Native-API driver
+C) Network Protocol driver
+D) XML driver
+Answer: D
+
+4. What is the first step in JDBC connection?
+A) Create a Statement
+B) Register the Driver
+C) Open ResultSet
+D) Execute Query
+Answer: B
+
+5. Which method is used to load a JDBC driver class explicitly?
+A) DriverManager.loadDriver()
+B) Class.forName()
+C) Driver.load()
+D) ClassLoader.loadClass()
+Answer: B
+
+6. What does DriverManager.getConnection() return?
+A) Statement
+B) ResultSet
+C) Connection
+D) PreparedStatement
+Answer: C
+
+7. Which interface is used to execute parameterized SQL queries?
+A) Statement
+B) CallableStatement
+C) ResultSet
+D) PreparedStatement
+Answer: D
+
+8. Which method is used to execute SELECT queries in JDBC?
+A) executeUpdate()
+B) executeQuery()
+C) execute()
+D) runQuery()
+Answer: B
+
+9. Which method is used to release database resources in JDBC?
+A) shutdown()
+B) close()
+C) terminate()
+D) release()
+Answer: B
+
+10. Which interface is used to call stored procedures?
+A) CallableStatement
+B) Statement
+C) ProcedureCall
+D) ResultSet
+Answer: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
