@@ -1,0 +1,71 @@
+1)  In a ER diagram double ellipse is used to represent
+a) simple attribute
+b) composite attribute
+c) multivalued attribute
+d) key attribute
+answer c
+
+2) High Cardinaliy means
+    a) very h⁬igh duplicate values
+    b) Large no of relations
+   c) total participation
+   d) High distinct values
+Answer D
+
+3) In a one to many relationship, the entity that is on the ONE side  is called as 
+A.parent
+B.child
+C.instance
+D.subtype
+Answer A
+
+4) What is a forein key?
+a) uniquely identifies the records in a relation
+b) Refers the data in the parent table.
+c) will not allow duplicate and null values.
+d) non of the above
+
+
+5) Which of the following represent week entity
+a) double diamond
+b) bold rectangle
+c) dotted rectangle
+d) double rectangle.
+AnswerD
+
+6) Total participation is represented by 
+a) dotted lines
+b) bold lines
+c) lines
+d) non of the above
+answer : B
+
+7) Consider the entity relationship which consists of two entity sets, customer and loan, related through a binary relationship set borrower. A directed line(->) from the relationship set borrower to the entity set loan specified that borrower is either a_________ or _______ relationship.
+
+a. One to one, many to one
+b. many to many, one to many
+c. Many to many, one to one
+d. One to One, Many to Many
+Answer A
+
+8) Which of the following is true about a composite attribute?
+a) Cannot be divided further
+b) Consists of multiple values
+c) Can be divided into smaller sub-parts
+d) Always acts as a foreign key
+Answer: c) Can be divided into smaller sub-parts
+
+9) In an ER diagram, which symbol is used to represent a relationship?
+a) Ellipse
+b) Rectangle
+c) Diamond
+d) Line
+Answer: c) Diamond 
+
+10) A derived attribute is represented by which shape in an ER diagram?
+a) Double ellipse
+b) Dotted ellipse
+c) Single ellipse
+d) Rectangle
+Answer: b) Dotted ellipse 
+

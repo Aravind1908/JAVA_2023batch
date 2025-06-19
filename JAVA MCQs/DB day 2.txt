@@ -1,0 +1,72 @@
+DB day 2 
+
+1. What is the purpose of constraints in SQL?
+A) To improve UI performance
+B) To ensure data integrity
+C) To create backups
+D) To run queries faster
+✅ Answer: B) To ensure data integrity
+
+2. Which constraint ensures that a column cannot have NULL values?
+A) UNIQUE
+B) PRIMARY KEY
+C) NOT NULL
+D) CHECK
+✅ Answer: C) NOT NULL
+
+3. Which constraint is used to ensure all values in a column are different?
+A) PRIMARY KEY
+B) CHECK
+C) FOREIGN KEY
+D) DEFAULT
+✅ Answer: A) PRIMARY KEY
+
+
+4. A table can have how many PRIMARY KEYs?
+A) Zero
+B) Only one
+C) One or two
+D) Unlimited
+✅ Answer: B) Only one
+
+5. What does the FOREIGN KEY constraint do?
+A) Creates a unique column
+B) Links two tables together
+C) Deletes rows
+D) Updates indexes
+✅ Answer: B) Links two tables together
+
+6. What happens if you try to insert a value that violates a CHECK constraint?
+A) The row is inserted
+B) The row is updated
+C) An error occurs
+D) The constraint is disabled
+✅ Answer: C) An error occurs
+
+7. Which constraint automatically provides a value when none is given during insert?
+A) CHECK
+B) DEFAULT
+C) UNIQUE
+D) FOREIGN KEY
+✅ Answer: B) DEFAULT
+
+8. Which constraint ensures values fall within a specific range or meet a condition?
+A) NOT NULL
+B) PRIMARY KEY
+C) CHECK
+D) DEFAULT
+✅ Answer: C) CHECK
+
+9. Which of the following is NOT a valid SQL constraint?
+A) LIMIT
+B) CHECK
+C) UNIQUE
+D) NOT NULL
+✅ Answer: A) LIMIT
+
+10. Which command is used to add a constraint after a table is created?
+A) INSERT CONSTRAINT
+B) UPDATE TABLE
+C) ALTER TABLE
+D) MODIFY TABLE
+✅ Answer: C) ALTER TABLE	
